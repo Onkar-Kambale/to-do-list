@@ -14,7 +14,7 @@ A sleek and modern to-do list web application built with HTML, CSS, and Vanilla 
 
 🎨 Modern and responsive UI design
 
-# 🖼️ Demo
+# 🖼️ Deployed
 https://onkar-kambale.github.io/to-do-list/
 
 # 🎥 Preview
