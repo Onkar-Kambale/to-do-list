@@ -26,3 +26,11 @@ HTML5 – Semantic layout
 CSS3 – Custom properties, transitions, flexbox
 
 JavaScript (ES6) – LocalStorage, DOM manipulation
+
+## 📸 Screenshot
+
+![GitHubScreenshot](SS1.png)
+
+![GitHubScreenshot](SS2.png)
+
+![GitHubScreenshot](SS3.png)
